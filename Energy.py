@@ -10,14 +10,13 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-# Tuya cloud configuration (Updated with your new credentials)
-DEVICE_ID = "bf2ea6423fde0e3a5bu0lt"  # New Device ID
-API_REGION = "eu"  # Region is "eu" (for Europe)
-API_KEY = "jpemtvyqmyvtytvcpywj"  # New Access ID/Client ID
-API_SECRET = "bbe0b8e88059472bb0c50e1735537e03"  # New Access Secret/Client Secret
-UId = "eu1753528411983D22FV"  # Your UId for the device
+DEVICE_ID = "bf2ea6423fde0e3a5bu0lt"
+API_REGION = "eu"
+API_KEY = "jpemtvyqmyvtytvcpywj"
+API_SECRET = "bbe0b8e88059472bb0c50e1735537e03"
+UId = "eu1753528411983D22FV"
 
-DATA_FILE = "2nddevice_data.json"
+DATA_FILE = "Energy.json"
 cloud = None
 data_collection_thread = None
 is_collecting = False
@@ -168,4 +167,5 @@ if __name__ == '__main__':
         print("Cloud device connected and data collection started")
     else:
         print("Failed to connect to cloud device")
+
     app.run(debug=True, host='0.0.0.0', port=5005)
