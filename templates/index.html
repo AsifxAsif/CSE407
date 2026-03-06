@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/date-fns/2.29.3/date-fns.min.js"></script>
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+</head>
+
+<body>
+    <!-- User Manual Button -->
+    <button class="userManual" id="openManualButton">
+        <div class="docs">
+            <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none"
+                stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                <polyline points="14 2 14 8 20 8"></polyline>
+                <line x1="16" y1="13" x2="8" y2="13"></line>
+                <line x1="16" y1="17" x2="8" y2="17"></line>
+                <polyline points="10 9 9 9 8 9"></polyline>
+            </svg>
+            User Manual
+        </div>
+        <div class="manual">
+            <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"
+                stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                <polyline points="7 10 12 15 17 10"></polyline>
+                <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+        </div>
+    </button>
+
+    <div style="display: flex; flex-direction: column;">
+        <h1 style="text-align: center; color: #0ea5a3; margin-top: 50px;">Dynamic IoT Dashboard for Real-time Device
+            Monitoring and Control</h1>
+
+        <div class="dashboard-container">
+            {% for i in range(1, 101) %}
+            <div class="card">
+                <div class="top-section">
+                    <div class="border"></div>
+                    <div class="icons">
+                        <div class="logo">
+                            <span class="title">Room {{ i }}</span>
+                        </div>
+                        <div class="checkbox-wrapper">
+                            <input type="checkbox" class="toggle-switch" data-room-id="{{ i }}" id="toggle-{{ i }}">
+                        </div>
+                    </div>
+                </div>
+                <div class="bottom-section">
+                    <div class="row row1">
+                        <div class="item">
+                            <span class="big-text" id="totalUnits-{{ i }}">...</span>
+                            <span class="regular-text">Total Unit (kWh)</span>
+                        </div>
+                        <div class="item">
+                            <span class="big-text" id="totalCostOnCard-{{ i }}">...</span>
+                            <span class="regular-text">Total Cost (TK)</span>
+                        </div>
+                    </div>
+                    <button class="Btn-Container" data-room-id="{{ i }}">
+                        <span class="text">Show Full Data</span>
+                        <span class="icon-Container">
+                            <svg width="16" height="19" viewBox="0 0 16 19" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="1.61321" cy="1.61321" r="1.5" fill="black"></circle>
+                                <circle cx="5.73583" cy="1.61321" r="1.5" fill="black"></circle>
+                                <circle cx="5.73583" cy="5.5566" r="1.5" fill="black"></circle>
+                                <circle cx="9.85851" cy="5.5566" r="1.5" fill="black"></circle>
+                                <circle cx="9.85851" cy="9.5" r="1.5" fill="black"></circle>
+                                <circle cx="13.9811" cy="9.5" r="1.5" fill="black"></circle>
+                                <circle cx="5.73583" cy="13.4434" r="1.5" fill="black"></circle>
+                                <circle cx="9.85851" cy="13.4434" r="1.5" fill="black"></circle>
+                                <circle cx="1.61321" cy="17.3868" r="1.5" fill="black"></circle>
+                                <circle cx="5.73583" cy="17.3868" r="1.5" fill="black"></circle>
+                            </svg>
+                        </span>
+                    </button>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- User Manual Modal -->
+    <div id="userManualModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" id="closeManualModalBtn">&times;</span>
+            <h2>User Manual</h2>
+            <p>Welcome to the User Manual for the <b>Dynamic IoT Dashboard for Real-time Device Monitoring and
+                    Control</b>. This manual will guide you through the usage of the dashboard, from loading data to
+                calculating the energy usage and billing.</p>
+
+            <h3>1. Dashboard Overview</h3>
+            <p>The dashboard allows you to monitor and control up to 100 Tuya WiFi Smart Sockets in real-time. Each room
+                has its own card on the dashboard displaying:</p>
+            <ul>
+                <li>Total Unit (kWh)</li>
+                <li>Total Cost (TK)</li>
+                <li>Switch to toggle the device ON/OFF</li>
+            </ul>
+            <p>Clicking the <b>"Show Full Data"</b> button will display detailed information like voltage, current, and
+                power consumption over a specified time range.</p>
+
+            <h3>2. Data Loading</h3>
+            <p>The data on the dashboard is dynamically loaded from the Tuya WiFi Smart Sockets every 8 seconds. This is
+                done by sending requests to the Tuya cloud API and fetching data for voltage, current, and power. The
+                data is stored in a MySQL database for each device in different rooms.</p>
+            <p>When the dashboard is loaded, data for all rooms is fetched and displayed on the dashboard in real-time.
+                The data is also continuously updated in the background.</p>
+
+            <h3>3. Energy Consumption Calculation</h3>
+            <p>The energy consumption for each room is calculated in <b>"kilowatt-hours (kWh)"</b>. Here's how it's done
+                step by step:</p>
+            <ol>
+                <li>Each data sample includes the current wattage consumption for the device in the room.</li>
+                <li>The system calculates the time difference between consecutive data points.</li>
+                <li>Using the trapezoidal rule, the average wattage between two data points is used to calculate the
+                    energy consumption for that period in kWh.</li>
+                <li>The total energy consumption is the sum of all periods (based on the number of data points) for that
+                    room.</li>
+            </ol>
+            <p>For example:
+                <br>
+                - If the device is consuming 100W for 1 hour, it will consume 0.1 kWh (100W * 1hr / 1000).
+                <br>
+                - The system sums these values for all intervals to get the total energy usage.
+            </p>
+
+            <h3>4. Energy Consumption Example</h3>
+            <p>Let's walk through a step-by-step <b>"Energy Consumption"</b> example:</p>
+            <ol>
+                <li><b>Total Duration:</b> The total duration of your data is calculated by multiplying the total number
+                    of readings by the time interval.
+                    <br> <b>Formula:</b> Total Duration (Hours) = <b>(Total Readings × Time Interval) / 3600 seconds per
+                        hour</b>
+                    <br> Example: (6290 readings × 8 seconds) / 3600 ≈ 13.98 hours
+                </li>
+                <li><b>Average Power:</b> Average power is calculated by summing all watt readings and dividing by the
+                    total number of readings.
+                    <br> <b>Formula:</b> Average Power (Watts) = <b>Sum of all Watt Readings / Total Readings</b>
+                    <br> Example: 523719.1 / 6290 ≈ 83.26 watts
+                </li>
+                <li><b>Total Energy (kWh):</b> The total energy consumed is the product of average power and total
+                    duration.
+                    <br> <b>Formula:</b> Total kWh = <b>(Average Power (W) × Total Duration (H)) / 1000</b>
+                    <br> Example: (83.26 × 13.98) / 1000 ≈ 1.16 kWh
+                </li>
+            </ol>
+
+            <h3>5. Cost Calculation</h3>
+            <p>The cost for each room is calculated based on the energy consumption and the unit cost in <b>"Bangladeshi
+                    Taka (TK)"</b>. Here's how the cost is calculated step by step:</p>
+            <ol>
+                <li>Once the total energy consumption (in kWh) is calculated, the system applies a tiered pricing model
+                    based on the total units consumed.</li>
+                <li>The price for each unit is different depending on the amount of energy consumed. Below is the
+                    pricing range:</li>
+            </ol>
+
+            <table border="1" style="width: 100%; margin-top: 10px; margin-bottom: 20px;">
+                <thead>
+                    <tr>
+                        <th>Unit Range (kWh)</th>
+                        <th>Price per Unit (TK)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>0 - 75</td>
+                        <td>5.26</td>
+                    </tr>
+                    <tr>
+                        <td>76 - 200</td>
+                        <td>7.20</td>
+                    </tr>
+                    <tr>
+                        <td>201 - 300</td>
+                        <td>7.59</td>
+                    </tr>
+                    <tr>
+                        <td>301 - 400</td>
+                        <td>8.02</td>
+                    </tr>
+                    <tr>
+                        <td>401 - 600</td>
+                        <td>12.67</td>
+                    </tr>
+                    <tr>
+                        <td>Above 600</td>
+                        <td>14.61</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <p>For example:
+                <br>
+                - If the total energy consumption is 80 kWh, the cost calculation would be:
+                <br>
+                - First 75 kWh is charged at 5.26 TK/unit = 75 * 5.26 = 394.5 TK.
+                <br>
+                - The remaining 5 kWh is charged at 7.20 TK/unit = 5 * 7.20 = 36.0 TK.
+                <br>
+                - Total cost = 394.5 + 36.0 = 430.5 TK.
+            </p>
+
+
+
+            <h3>6. Data Filtering</h3>
+            <p>You can filter the data by selecting a custom date range using the <b>"From Date"</b> and <b>"To
+                    Date"</b> fields. Once a date range is selected, the system will recalculate the energy consumption
+                and cost for that range and display it in the modal. You can also download the filtered data in CSV
+                format by clicking the <b>"Download CSV"</b> button.</p>
+
+            <h3>7. Download CSV</h3>
+            <p>The system allows downloading data for each room in CSV format. If the file size exceeds 2MB, the system
+                automatically splits the data into multiple files for easier download.</p>
+
+            <h3>8. Troubleshooting</h3>
+            <p>In case of any issues with the Tuya API or data fetching, the following steps can be taken:</p>
+            <ul>
+                <li>Ensure that the API keys are valid and have not expired.</li>
+                <li>Check if the Tuya WiFi Smart Sockets are connected to the cloud and are functioning properly.</li>
+                <li>Make sure the MySQL database is accessible and not overloaded with queries.</li>
+            </ul>
+
+            <h3>9. Conclusion</h3>
+            <p>This system allows for efficient monitoring and control of energy consumption across 100 devices,
+                providing real-time data and billing information. It offers insights into energy usage and helps reduce
+                costs through better management of electricity consumption.</p>
+        </div>
+    </div>
+
+    <div id="dataModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" id="closeModalBtn">&times;</span>
+            <div class="details">
+                <div>
+                    <label for="fromDateTime">From Date & Time:</label>
+                    <input type="datetime-local" id="fromDateTime" name="fromDateTime" />
+                </div>
+                <div>
+                    <label for="toDateTime">To Date & Time:</label>
+                    <input type="datetime-local" id="toDateTime" name="toDateTime" />
+                </div>
+                <div>
+                    <button class="button">
+                        <span class="button_lg">
+                            <span class="button_sl"></span>
+                            <span class="button_text">Download CSV</span>
+                        </span>
+                    </button>
+                </div>
+            </div>
+            <div class="details">
+                <div id="totalConsumption" class="total-consumption">
+                    <strong>Total Unit:</strong> <span id="totalUnit"></span> kWh
+                </div>
+                <div id="totalCostAmount" class="total-consumption">
+                    <strong>Total Cost:</strong> <span id="totalCost"></span> TK
+                </div>
+                <div id="totalCostBreakdown" class="total-consumption">
+                    <strong>Calculation:</strong> <span id="totalCostSteps"></span> TK
+                </div>
+            </div>
+            <canvas id="deviceDataChart"></canvas>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script>
+        if (typeof dateFns !== 'undefined') {
+            window.enUS = dateFns.enUS;
+            console.log("dateFns loaded successfully, enUS:", typeof enUS !== 'undefined');
+        }
+    </script>
+</body>
+
+</html>
