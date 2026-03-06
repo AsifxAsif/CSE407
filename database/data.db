@@ -1,0 +1,21 @@
+import sqlite3
+
+def create_db():
+    conn = sqlite3.connect('/home/Asifuzzaman/flask_app/database/data.db')
+    cursor = conn.cursor()
+
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS room_data (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        timestamp TEXT,
+        room_id INTEGER,
+        connected BOOLEAN,
+        power_on BOOLEAN,
+        current REAL,
+        voltage REAL,
+        watt REAL
+    )
+    ''')
+
+    conn.commit()
+    conn.close()
