@@ -1,0 +1,8578 @@
+[
+  {
+    "timestamp": "2025-08-02 22:57:36",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:57:46",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:57:57",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:58:07",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:58:17",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:58:27",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:58:37",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:58:47",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:58:58",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:59:08",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:59:18",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:59:28",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:59:38",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:59:48",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 22:59:58",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 23:00:09",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 23:00:19",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 23:00:29",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 23:00:39",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 23:00:49",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 23:01:00",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 23:01:10",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "229.5",
+    "watt": 209
+  },
+  {
+    "timestamp": "2025-08-02 23:01:20",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:01:30",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:01:40",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:01:50",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:02:00",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:02:11",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:02:21",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:02:31",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:02:41",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:02:51",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:03:04",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:03:14",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:03:24",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:03:34",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:03:44",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:03:54",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:04:04",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:04:15",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:04:25",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:04:36",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:04:46",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:04:56",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:05:07",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:05:09",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:05:19",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:05:29",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:05:40",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:05:50",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:06:00",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:06:10",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:06:20",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:06:30",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:06:41",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:06:51",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:07:01",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:07:11",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:07:21",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:07:31",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:07:41",
+    "connected": true,
+    "power_on": true,
+    "current": 248,
+    "voltage": "229",
+    "watt": 259
+  },
+  {
+    "timestamp": "2025-08-02 23:07:52",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "228.6",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-02 23:08:02",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "228.6",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-02 23:08:12",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "228.6",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-02 23:08:22",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "228.6",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-02 23:08:32",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "228.6",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-02 23:08:42",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "228.6",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-02 23:08:52",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "228.6",
+    "watt": 261
+  },
+  {
+    "timestamp": "2025-08-02 23:09:03",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "228.6",
+    "watt": 261
+  },
+  {
+    "timestamp": "2025-08-02 23:09:13",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "228.6",
+    "watt": 261
+  },
+  {
+    "timestamp": "2025-08-02 23:09:23",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "228.6",
+    "watt": 261
+  },
+  {
+    "timestamp": "2025-08-02 23:12:16",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:12:26",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:12:36",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:12:46",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:12:56",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:13:06",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:13:16",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:13:27",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:13:37",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:13:47",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:13:57",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:14:07",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:14:17",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:14:27",
+    "connected": true,
+    "power_on": true,
+    "current": 243,
+    "voltage": "228.6",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-02 23:14:38",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:14:48",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:14:58",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:15:08",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:15:18",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:15:28",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:15:38",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:15:49",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:15:59",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:16:09",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:16:19",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:16:29",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:16:39",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:16:50",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:17:00",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:17:10",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:17:22",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:17:32",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:17:42",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:17:52",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:18:01",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:18:11",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:18:21",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:18:31",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:18:41",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:18:51",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:19:01",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:19:12",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:19:22",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:19:32",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:19:42",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:19:52",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:20:02",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:20:13",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:20:23",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:20:33",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:20:43",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:20:53",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:21:03",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:21:13",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:21:24",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:21:34",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:21:44",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:21:54",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:22:04",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:22:14",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:22:24",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:22:35",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:22:45",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:22:55",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:23:05",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:23:15",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:23:25",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:23:35",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:23:46",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:23:56",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:24:06",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:24:16",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:24:26",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:24:36",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:24:46",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:24:57",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:25:07",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:25:17",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:25:27",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:25:37",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:25:47",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:25:57",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:26:08",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:26:18",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:26:28",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:26:38",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:26:48",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:26:58",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "228.2",
+    "watt": 194
+  },
+  {
+    "timestamp": "2025-08-02 23:27:09",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:27:19",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:27:29",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:27:39",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:27:49",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:27:59",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:28:10",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:28:20",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:28:30",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:28:40",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:28:50",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:29:00",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:29:11",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:29:21",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:29:33",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:29:43",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:29:53",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:30:03",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:30:13",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:30:24",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:30:34",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:30:44",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:30:54",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:31:04",
+    "connected": true,
+    "power_on": true,
+    "current": 244,
+    "voltage": "228.2",
+    "watt": 309
+  },
+  {
+    "timestamp": "2025-08-02 23:31:14",
+    "connected": true,
+    "power_on": true,
+    "current": 213,
+    "voltage": "228.6",
+    "watt": 254
+  },
+  {
+    "timestamp": "2025-08-02 23:31:25",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:31:35",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:31:45",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:31:55",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:32:05",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:32:15",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:32:25",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:32:36",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:32:46",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:32:56",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:33:06",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:33:16",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:33:26",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:33:36",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:33:47",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:33:57",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:34:07",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:34:17",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "228.6",
+    "watt": 192
+  },
+  {
+    "timestamp": "2025-08-02 23:34:27",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:34:37",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:34:48",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:34:58",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:35:08",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:35:18",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:35:28",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:35:38",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:35:49",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:35:59",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:36:09",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:36:24",
+    "connected": true,
+    "power_on": true,
+    "current": 186,
+    "voltage": "228.6",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-02 23:36:34",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:36:49",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:37:09",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:37:31",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:37:44",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:37:57",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:38:08",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:38:18",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:38:28",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:38:38",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:38:48",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:39:08",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "0",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-02 23:39:21",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:39:32",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-02 23:39:43",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "228.6",
+    "watt": 224
+  },
+  {
+    "timestamp": "2025-08-03 01:10:16",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:10:27",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:10:37",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:10:47",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:10:57",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:11:08",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:11:18",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:11:28",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:11:38",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:11:48",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:11:59",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:12:10",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:12:20",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:12:30",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:12:40",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:12:50",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:13:01",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:13:11",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:13:21",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:13:31",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:13:42",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:13:52",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:14:02",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:14:12",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:14:22",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:14:33",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:14:43",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:14:53",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:15:03",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:15:13",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:15:24",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:15:34",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:15:44",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:15:55",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:16:05",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:16:15",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:16:25",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:16:36",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:16:46",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:16:56",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:17:06",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:17:17",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:17:27",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:17:37",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:17:47",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:17:57",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:18:08",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:18:18",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:18:28",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:18:38",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:18:48",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:18:59",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:19:09",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:19:19",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:19:29",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:19:40",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:19:50",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:20:00",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:20:10",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:20:20",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:20:31",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:20:41",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:20:51",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:21:01",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:21:12",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:21:22",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:21:32",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:21:42",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:21:52",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:22:03",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:22:13",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:22:23",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:22:33",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:22:44",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:22:54",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:23:04",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:23:14",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:23:25",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:23:35",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:23:45",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:23:55",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:24:05",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:24:16",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:24:26",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:24:36",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:24:46",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:24:57",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:25:07",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:25:17",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:25:27",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:25:37",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:25:47",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:25:58",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:26:08",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:26:18",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:26:29",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:26:39",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:26:49",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:27:00",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:27:11",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:27:22",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.1",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:27:32",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.5",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:27:42",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.5",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:27:52",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "232.5",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:28:03",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "233",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:28:13",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "233.4",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:28:25",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "233.4",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:32:24",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:32:34",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:32:44",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:32:54",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:33:05",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:33:15",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:33:25",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:33:36",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:33:46",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:33:56",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:34:06",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:34:16",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:34:27",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:34:37",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:34:47",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:34:57",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:35:07",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:35:17",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:35:28",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:35:38",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:35:48",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:35:58",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:36:08",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:36:19",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:36:29",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:36:39",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:36:49",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:37:00",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:37:10",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:37:20",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:37:30",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:37:40",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:37:51",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:38:01",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:38:11",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:38:21",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:38:31",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:38:42",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:38:52",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:39:02",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:39:12",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:39:22",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:39:32",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:39:43",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "229.9",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:39:53",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:40:03",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:40:13",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:40:23",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:40:34",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:40:44",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:40:54",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:41:04",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:41:14",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:41:25",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:41:35",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:41:45",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:41:53",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:42:04",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:42:14",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:42:24",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:42:34",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:42:45",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:42:55",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:43:05",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:43:15",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:43:25",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:43:35",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:43:46",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:43:56",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "230.8",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:44:06",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "231.2",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:44:16",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "231.2",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:44:26",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "231.2",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:44:37",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "231.2",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 01:44:47",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:44:57",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:45:07",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:45:17",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:45:27",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:45:37",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:45:47",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:45:58",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:46:08",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:46:18",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:46:28",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:46:38",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:46:52",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:47:02",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:47:12",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:47:22",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:47:32",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:47:42",
+    "connected": true,
+    "power_on": true,
+    "current": 222,
+    "voltage": "231.2",
+    "watt": 342
+  },
+  {
+    "timestamp": "2025-08-03 01:47:52",
+    "connected": true,
+    "power_on": true,
+    "current": 285,
+    "voltage": "231.7",
+    "watt": 351
+  },
+  {
+    "timestamp": "2025-08-03 01:48:03",
+    "connected": true,
+    "power_on": true,
+    "current": 285,
+    "voltage": "231.7",
+    "watt": 351
+  },
+  {
+    "timestamp": "2025-08-03 01:48:13",
+    "connected": true,
+    "power_on": true,
+    "current": 285,
+    "voltage": "231.7",
+    "watt": 351
+  },
+  {
+    "timestamp": "2025-08-03 01:48:23",
+    "connected": true,
+    "power_on": true,
+    "current": 285,
+    "voltage": "231.7",
+    "watt": 351
+  },
+  {
+    "timestamp": "2025-08-03 01:48:33",
+    "connected": true,
+    "power_on": true,
+    "current": 285,
+    "voltage": "231.7",
+    "watt": 351
+  },
+  {
+    "timestamp": "2025-08-03 01:48:43",
+    "connected": true,
+    "power_on": true,
+    "current": 285,
+    "voltage": "231.7",
+    "watt": 351
+  },
+  {
+    "timestamp": "2025-08-03 01:48:53",
+    "connected": true,
+    "power_on": true,
+    "current": 285,
+    "voltage": "231.7",
+    "watt": 351
+  },
+  {
+    "timestamp": "2025-08-03 01:49:03",
+    "connected": true,
+    "power_on": true,
+    "current": 285,
+    "voltage": "231.7",
+    "watt": 351
+  },
+  {
+    "timestamp": "2025-08-03 01:49:14",
+    "connected": true,
+    "power_on": true,
+    "current": 285,
+    "voltage": "231.7",
+    "watt": 351
+  },
+  {
+    "timestamp": "2025-08-03 01:49:24",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "232.5",
+    "watt": 214
+  },
+  {
+    "timestamp": "2025-08-03 01:49:34",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "232.5",
+    "watt": 214
+  },
+  {
+    "timestamp": "2025-08-03 01:49:44",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "232.5",
+    "watt": 214
+  },
+  {
+    "timestamp": "2025-08-03 01:49:54",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "232.5",
+    "watt": 214
+  },
+  {
+    "timestamp": "2025-08-03 01:50:04",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "232.5",
+    "watt": 214
+  },
+  {
+    "timestamp": "2025-08-03 01:50:14",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "232.5",
+    "watt": 214
+  },
+  {
+    "timestamp": "2025-08-03 01:50:25",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "232.5",
+    "watt": 214
+  },
+  {
+    "timestamp": "2025-08-03 01:50:35",
+    "connected": true,
+    "power_on": true,
+    "current": 277,
+    "voltage": "232.1",
+    "watt": 384
+  },
+  {
+    "timestamp": "2025-08-03 01:50:45",
+    "connected": true,
+    "power_on": true,
+    "current": 277,
+    "voltage": "232.1",
+    "watt": 384
+  },
+  {
+    "timestamp": "2025-08-03 01:50:55",
+    "connected": true,
+    "power_on": true,
+    "current": 277,
+    "voltage": "232.1",
+    "watt": 384
+  },
+  {
+    "timestamp": "2025-08-03 01:51:05",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:51:15",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:51:25",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:51:36",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:51:46",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:51:56",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:52:06",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:52:16",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:52:26",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:52:36",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:52:47",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:52:57",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:53:07",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:53:17",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:53:27",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:53:37",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:53:47",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:53:58",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:54:08",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:54:18",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:54:28",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "233",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 01:54:38",
+    "connected": true,
+    "power_on": true,
+    "current": 201,
+    "voltage": "233",
+    "watt": 325
+  },
+  {
+    "timestamp": "2025-08-03 01:54:49",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 247
+  },
+  {
+    "timestamp": "2025-08-03 01:54:59",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 247
+  },
+  {
+    "timestamp": "2025-08-03 01:55:09",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 247
+  },
+  {
+    "timestamp": "2025-08-03 01:55:19",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 247
+  },
+  {
+    "timestamp": "2025-08-03 01:55:29",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 247
+  },
+  {
+    "timestamp": "2025-08-03 01:55:39",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 247
+  },
+  {
+    "timestamp": "2025-08-03 01:55:50",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 247
+  },
+  {
+    "timestamp": "2025-08-03 01:56:00",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 247
+  },
+  {
+    "timestamp": "2025-08-03 01:56:10",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 247
+  },
+  {
+    "timestamp": "2025-08-03 01:56:20",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:56:30",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:56:40",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:56:51",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:57:01",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:57:11",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:57:21",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:57:31",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:57:41",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:57:51",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:58:02",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:58:12",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:58:22",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:58:32",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:58:42",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:58:52",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:59:02",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:59:13",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:59:23",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:59:33",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:59:43",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 01:59:53",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:00:04",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:00:14",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:00:24",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:00:34",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:00:44",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:00:54",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:01:04",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:01:15",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:01:25",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:01:35",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:01:45",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:01:55",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:02:05",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:02:15",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:02:26",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:02:36",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:02:46",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:02:56",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:03:06",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:03:16",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:03:26",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:03:37",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:03:47",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:03:57",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:04:07",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:04:17",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:04:27",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:04:37",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:04:48",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:04:58",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:05:08",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:05:18",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:05:28",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:05:38",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:05:48",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:05:58",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:06:09",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:06:19",
+    "connected": true,
+    "power_on": true,
+    "current": 294,
+    "voltage": "232.5",
+    "watt": 333
+  },
+  {
+    "timestamp": "2025-08-03 02:06:29",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "233",
+    "watt": 183
+  },
+  {
+    "timestamp": "2025-08-03 02:06:39",
+    "connected": true,
+    "power_on": true,
+    "current": 161,
+    "voltage": "232.5",
+    "watt": 184
+  },
+  {
+    "timestamp": "2025-08-03 02:06:49",
+    "connected": true,
+    "power_on": true,
+    "current": 193,
+    "voltage": "232.5",
+    "watt": 200
+  },
+  {
+    "timestamp": "2025-08-03 02:06:59",
+    "connected": true,
+    "power_on": true,
+    "current": 150,
+    "voltage": "232.5",
+    "watt": 189
+  },
+  {
+    "timestamp": "2025-08-03 02:07:10",
+    "connected": true,
+    "power_on": true,
+    "current": 150,
+    "voltage": "232.5",
+    "watt": 189
+  },
+  {
+    "timestamp": "2025-08-03 02:07:20",
+    "connected": true,
+    "power_on": true,
+    "current": 239,
+    "voltage": "232.5",
+    "watt": 291
+  },
+  {
+    "timestamp": "2025-08-03 02:07:33",
+    "connected": true,
+    "power_on": true,
+    "current": 239,
+    "voltage": "232.5",
+    "watt": 291
+  },
+  {
+    "timestamp": "2025-08-03 02:07:43",
+    "connected": true,
+    "power_on": true,
+    "current": 239,
+    "voltage": "232.5",
+    "watt": 291
+  },
+  {
+    "timestamp": "2025-08-03 02:07:53",
+    "connected": true,
+    "power_on": true,
+    "current": 239,
+    "voltage": "232.5",
+    "watt": 291
+  },
+  {
+    "timestamp": "2025-08-03 02:08:03",
+    "connected": true,
+    "power_on": true,
+    "current": 239,
+    "voltage": "232.5",
+    "watt": 291
+  },
+  {
+    "timestamp": "2025-08-03 02:08:14",
+    "connected": true,
+    "power_on": true,
+    "current": 239,
+    "voltage": "232.5",
+    "watt": 291
+  },
+  {
+    "timestamp": "2025-08-03 02:08:26",
+    "connected": true,
+    "power_on": true,
+    "current": 230,
+    "voltage": "232.5",
+    "watt": 320
+  },
+  {
+    "timestamp": "2025-08-03 02:08:36",
+    "connected": true,
+    "power_on": true,
+    "current": 230,
+    "voltage": "232.5",
+    "watt": 320
+  },
+  {
+    "timestamp": "2025-08-03 02:08:46",
+    "connected": true,
+    "power_on": true,
+    "current": 230,
+    "voltage": "232.5",
+    "watt": 320
+  },
+  {
+    "timestamp": "2025-08-03 02:08:56",
+    "connected": true,
+    "power_on": true,
+    "current": 230,
+    "voltage": "232.5",
+    "watt": 320
+  },
+  {
+    "timestamp": "2025-08-03 02:09:07",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:09:17",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:09:27",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:09:37",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:09:47",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:09:57",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:10:07",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:10:18",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:10:28",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:10:38",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:10:48",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:10:58",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:11:08",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:11:19",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:11:29",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:11:39",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:11:49",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:11:59",
+    "connected": true,
+    "power_on": true,
+    "current": 194,
+    "voltage": "232.5",
+    "watt": 270
+  },
+  {
+    "timestamp": "2025-08-03 02:12:09",
+    "connected": true,
+    "power_on": true,
+    "current": 267,
+    "voltage": "231.7",
+    "watt": 310
+  },
+  {
+    "timestamp": "2025-08-03 02:12:19",
+    "connected": true,
+    "power_on": true,
+    "current": 267,
+    "voltage": "231.7",
+    "watt": 310
+  },
+  {
+    "timestamp": "2025-08-03 02:12:30",
+    "connected": true,
+    "power_on": true,
+    "current": 267,
+    "voltage": "231.7",
+    "watt": 310
+  },
+  {
+    "timestamp": "2025-08-03 02:12:40",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "232.1",
+    "watt": 230
+  },
+  {
+    "timestamp": "2025-08-03 02:12:50",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "232.1",
+    "watt": 230
+  },
+  {
+    "timestamp": "2025-08-03 02:13:00",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "232.1",
+    "watt": 230
+  },
+  {
+    "timestamp": "2025-08-03 02:13:10",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "232.1",
+    "watt": 230
+  },
+  {
+    "timestamp": "2025-08-03 02:13:20",
+    "connected": true,
+    "power_on": true,
+    "current": 208,
+    "voltage": "232.1",
+    "watt": 289
+  },
+  {
+    "timestamp": "2025-08-03 02:13:30",
+    "connected": true,
+    "power_on": true,
+    "current": 208,
+    "voltage": "232.1",
+    "watt": 289
+  },
+  {
+    "timestamp": "2025-08-03 02:13:41",
+    "connected": true,
+    "power_on": true,
+    "current": 208,
+    "voltage": "232.1",
+    "watt": 289
+  },
+  {
+    "timestamp": "2025-08-03 02:13:51",
+    "connected": true,
+    "power_on": true,
+    "current": 208,
+    "voltage": "232.1",
+    "watt": 289
+  },
+  {
+    "timestamp": "2025-08-03 02:14:01",
+    "connected": true,
+    "power_on": true,
+    "current": 208,
+    "voltage": "232.1",
+    "watt": 289
+  },
+  {
+    "timestamp": "2025-08-03 02:14:11",
+    "connected": true,
+    "power_on": true,
+    "current": 208,
+    "voltage": "232.1",
+    "watt": 289
+  },
+  {
+    "timestamp": "2025-08-03 02:14:21",
+    "connected": true,
+    "power_on": true,
+    "current": 278,
+    "voltage": "232.1",
+    "watt": 376
+  },
+  {
+    "timestamp": "2025-08-03 02:14:31",
+    "connected": true,
+    "power_on": true,
+    "current": 278,
+    "voltage": "232.1",
+    "watt": 376
+  },
+  {
+    "timestamp": "2025-08-03 02:14:41",
+    "connected": true,
+    "power_on": true,
+    "current": 278,
+    "voltage": "232.1",
+    "watt": 376
+  },
+  {
+    "timestamp": "2025-08-03 02:14:52",
+    "connected": true,
+    "power_on": true,
+    "current": 278,
+    "voltage": "232.1",
+    "watt": 376
+  },
+  {
+    "timestamp": "2025-08-03 02:15:02",
+    "connected": true,
+    "power_on": true,
+    "current": 183,
+    "voltage": "232.1",
+    "watt": 276
+  },
+  {
+    "timestamp": "2025-08-03 02:15:12",
+    "connected": true,
+    "power_on": true,
+    "current": 183,
+    "voltage": "232.1",
+    "watt": 276
+  },
+  {
+    "timestamp": "2025-08-03 02:15:22",
+    "connected": true,
+    "power_on": true,
+    "current": 183,
+    "voltage": "232.1",
+    "watt": 276
+  },
+  {
+    "timestamp": "2025-08-03 02:15:32",
+    "connected": true,
+    "power_on": true,
+    "current": 183,
+    "voltage": "232.1",
+    "watt": 276
+  },
+  {
+    "timestamp": "2025-08-03 02:15:42",
+    "connected": true,
+    "power_on": true,
+    "current": 183,
+    "voltage": "232.1",
+    "watt": 276
+  },
+  {
+    "timestamp": "2025-08-03 02:15:52",
+    "connected": true,
+    "power_on": true,
+    "current": 183,
+    "voltage": "232.1",
+    "watt": 276
+  },
+  {
+    "timestamp": "2025-08-03 02:16:03",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "232.1",
+    "watt": 206
+  },
+  {
+    "timestamp": "2025-08-03 02:16:13",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "232.1",
+    "watt": 206
+  },
+  {
+    "timestamp": "2025-08-03 02:16:23",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "232.1",
+    "watt": 206
+  },
+  {
+    "timestamp": "2025-08-03 02:16:33",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "232.1",
+    "watt": 206
+  },
+  {
+    "timestamp": "2025-08-03 02:16:43",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "232.1",
+    "watt": 206
+  },
+  {
+    "timestamp": "2025-08-03 02:16:53",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "232.1",
+    "watt": 206
+  },
+  {
+    "timestamp": "2025-08-03 02:17:03",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "232.1",
+    "watt": 206
+  },
+  {
+    "timestamp": "2025-08-03 02:17:13",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "232.1",
+    "watt": 206
+  },
+  {
+    "timestamp": "2025-08-03 02:17:24",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "232.1",
+    "watt": 206
+  },
+  {
+    "timestamp": "2025-08-03 02:17:34",
+    "connected": true,
+    "power_on": true,
+    "current": 283,
+    "voltage": "232.5",
+    "watt": 345
+  },
+  {
+    "timestamp": "2025-08-03 02:17:44",
+    "connected": true,
+    "power_on": true,
+    "current": 283,
+    "voltage": "232.5",
+    "watt": 345
+  },
+  {
+    "timestamp": "2025-08-03 02:17:54",
+    "connected": true,
+    "power_on": true,
+    "current": 283,
+    "voltage": "232.5",
+    "watt": 345
+  },
+  {
+    "timestamp": "2025-08-03 02:18:04",
+    "connected": true,
+    "power_on": true,
+    "current": 283,
+    "voltage": "232.5",
+    "watt": 345
+  },
+  {
+    "timestamp": "2025-08-03 02:18:14",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "232.5",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 02:18:24",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "232.5",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 02:18:35",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "232.5",
+    "watt": 217
+  },
+  {
+    "timestamp": "2025-08-03 02:18:45",
+    "connected": true,
+    "power_on": true,
+    "current": 235,
+    "voltage": "232.5",
+    "watt": 350
+  },
+  {
+    "timestamp": "2025-08-03 02:18:55",
+    "connected": true,
+    "power_on": true,
+    "current": 235,
+    "voltage": "232.5",
+    "watt": 350
+  },
+  {
+    "timestamp": "2025-08-03 02:19:05",
+    "connected": true,
+    "power_on": true,
+    "current": 235,
+    "voltage": "232.5",
+    "watt": 350
+  },
+  {
+    "timestamp": "2025-08-03 02:19:15",
+    "connected": true,
+    "power_on": true,
+    "current": 235,
+    "voltage": "232.5",
+    "watt": 350
+  },
+  {
+    "timestamp": "2025-08-03 02:19:25",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:19:35",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:19:46",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:19:56",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:20:06",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:20:16",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:20:26",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:20:36",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:20:47",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:20:57",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:21:07",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:21:17",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 249
+  },
+  {
+    "timestamp": "2025-08-03 02:21:27",
+    "connected": true,
+    "power_on": true,
+    "current": 314,
+    "voltage": "233",
+    "watt": 416
+  },
+  {
+    "timestamp": "2025-08-03 02:21:37",
+    "connected": true,
+    "power_on": true,
+    "current": 314,
+    "voltage": "233",
+    "watt": 416
+  },
+  {
+    "timestamp": "2025-08-03 02:21:47",
+    "connected": true,
+    "power_on": true,
+    "current": 314,
+    "voltage": "233",
+    "watt": 416
+  },
+  {
+    "timestamp": "2025-08-03 02:21:57",
+    "connected": true,
+    "power_on": true,
+    "current": 314,
+    "voltage": "233",
+    "watt": 416
+  },
+  {
+    "timestamp": "2025-08-03 02:22:08",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "233",
+    "watt": 225
+  },
+  {
+    "timestamp": "2025-08-03 02:22:18",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "233",
+    "watt": 225
+  },
+  {
+    "timestamp": "2025-08-03 02:22:28",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "233",
+    "watt": 225
+  },
+  {
+    "timestamp": "2025-08-03 02:22:38",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "233",
+    "watt": 225
+  },
+  {
+    "timestamp": "2025-08-03 02:22:48",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "233",
+    "watt": 225
+  },
+  {
+    "timestamp": "2025-08-03 02:22:59",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "233",
+    "watt": 225
+  },
+  {
+    "timestamp": "2025-08-03 02:23:09",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "233",
+    "watt": 225
+  },
+  {
+    "timestamp": "2025-08-03 02:23:19",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "233",
+    "watt": 225
+  },
+  {
+    "timestamp": "2025-08-03 02:23:29",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "233",
+    "watt": 225
+  },
+  {
+    "timestamp": "2025-08-03 02:23:39",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 211
+  },
+  {
+    "timestamp": "2025-08-03 02:23:49",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 211
+  },
+  {
+    "timestamp": "2025-08-03 02:23:59",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 211
+  },
+  {
+    "timestamp": "2025-08-03 02:24:10",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 211
+  },
+  {
+    "timestamp": "2025-08-03 02:24:20",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 211
+  },
+  {
+    "timestamp": "2025-08-03 02:24:30",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 211
+  },
+  {
+    "timestamp": "2025-08-03 02:24:40",
+    "connected": true,
+    "power_on": true,
+    "current": 189,
+    "voltage": "233",
+    "watt": 211
+  },
+  {
+    "timestamp": "2025-08-03 02:24:50",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:25:00",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:25:10",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:25:21",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:25:31",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:25:41",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:25:51",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:26:01",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:26:11",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:26:21",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 237
+  },
+  {
+    "timestamp": "2025-08-03 02:26:32",
+    "connected": true,
+    "power_on": true,
+    "current": 276,
+    "voltage": "233",
+    "watt": 381
+  },
+  {
+    "timestamp": "2025-08-03 02:26:42",
+    "connected": true,
+    "power_on": true,
+    "current": 276,
+    "voltage": "233",
+    "watt": 381
+  },
+  {
+    "timestamp": "2025-08-03 02:26:52",
+    "connected": true,
+    "power_on": true,
+    "current": 276,
+    "voltage": "233",
+    "watt": 381
+  },
+  {
+    "timestamp": "2025-08-03 02:27:02",
+    "connected": true,
+    "power_on": true,
+    "current": 207,
+    "voltage": "232.5",
+    "watt": 295
+  },
+  {
+    "timestamp": "2025-08-03 02:27:12",
+    "connected": true,
+    "power_on": true,
+    "current": 207,
+    "voltage": "232.5",
+    "watt": 295
+  },
+  {
+    "timestamp": "2025-08-03 02:27:22",
+    "connected": true,
+    "power_on": true,
+    "current": 207,
+    "voltage": "232.5",
+    "watt": 295
+  },
+  {
+    "timestamp": "2025-08-03 02:27:32",
+    "connected": true,
+    "power_on": true,
+    "current": 207,
+    "voltage": "232.5",
+    "watt": 295
+  },
+  {
+    "timestamp": "2025-08-03 02:27:42",
+    "connected": true,
+    "power_on": true,
+    "current": 207,
+    "voltage": "232.5",
+    "watt": 295
+  },
+  {
+    "timestamp": "2025-08-03 02:27:53",
+    "connected": true,
+    "power_on": true,
+    "current": 207,
+    "voltage": "232.5",
+    "watt": 295
+  },
+  {
+    "timestamp": "2025-08-03 02:28:03",
+    "connected": true,
+    "power_on": true,
+    "current": 207,
+    "voltage": "232.5",
+    "watt": 295
+  },
+  {
+    "timestamp": "2025-08-03 02:28:13",
+    "connected": true,
+    "power_on": true,
+    "current": 207,
+    "voltage": "232.5",
+    "watt": 295
+  },
+  {
+    "timestamp": "2025-08-03 02:28:23",
+    "connected": true,
+    "power_on": true,
+    "current": 207,
+    "voltage": "232.5",
+    "watt": 295
+  },
+  {
+    "timestamp": "2025-08-03 02:28:33",
+    "connected": true,
+    "power_on": true,
+    "current": 274,
+    "voltage": "233",
+    "watt": 332
+  },
+  {
+    "timestamp": "2025-08-03 02:28:43",
+    "connected": true,
+    "power_on": true,
+    "current": 274,
+    "voltage": "233",
+    "watt": 332
+  },
+  {
+    "timestamp": "2025-08-03 02:28:48",
+    "connected": true,
+    "power_on": true,
+    "current": 274,
+    "voltage": "233",
+    "watt": 33.2
+  },
+  {
+    "timestamp": "2025-08-03 02:28:58",
+    "connected": true,
+    "power_on": true,
+    "current": 274,
+    "voltage": "233",
+    "watt": 33.2
+  },
+  {
+    "timestamp": "2025-08-03 02:29:08",
+    "connected": true,
+    "power_on": true,
+    "current": 154,
+    "voltage": "233",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 02:29:18",
+    "connected": true,
+    "power_on": true,
+    "current": 154,
+    "voltage": "233",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 02:29:28",
+    "connected": true,
+    "power_on": true,
+    "current": 154,
+    "voltage": "233",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 02:29:38",
+    "connected": true,
+    "power_on": true,
+    "current": 154,
+    "voltage": "233",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 02:29:49",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "233",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 02:29:59",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "233",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 02:30:09",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "233",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 02:30:19",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "233",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 02:30:29",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "233",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 02:30:39",
+    "connected": true,
+    "power_on": true,
+    "current": 157,
+    "voltage": "233",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 02:30:50",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:31:00",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:31:10",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:31:20",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:31:30",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:31:40",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:31:50",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:32:01",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:32:11",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:32:21",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:32:31",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:32:41",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:32:51",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:33:01",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:33:11",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:33:22",
+    "connected": true,
+    "power_on": true,
+    "current": 182,
+    "voltage": "232.5",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 02:33:32",
+    "connected": true,
+    "power_on": true,
+    "current": 192,
+    "voltage": "232.5",
+    "watt": 29.5
+  },
+  {
+    "timestamp": "2025-08-03 02:33:42",
+    "connected": true,
+    "power_on": true,
+    "current": 192,
+    "voltage": "232.5",
+    "watt": 29.5
+  },
+  {
+    "timestamp": "2025-08-03 02:33:52",
+    "connected": true,
+    "power_on": true,
+    "current": 192,
+    "voltage": "232.5",
+    "watt": 29.5
+  },
+  {
+    "timestamp": "2025-08-03 02:34:02",
+    "connected": true,
+    "power_on": true,
+    "current": 192,
+    "voltage": "232.5",
+    "watt": 29.5
+  },
+  {
+    "timestamp": "2025-08-03 02:34:12",
+    "connected": true,
+    "power_on": true,
+    "current": 192,
+    "voltage": "232.5",
+    "watt": 29.5
+  },
+  {
+    "timestamp": "2025-08-03 02:34:23",
+    "connected": true,
+    "power_on": true,
+    "current": 192,
+    "voltage": "232.5",
+    "watt": 29.5
+  },
+  {
+    "timestamp": "2025-08-03 02:34:33",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "233",
+    "watt": 26.9
+  },
+  {
+    "timestamp": "2025-08-03 02:34:43",
+    "connected": true,
+    "power_on": true,
+    "current": 175,
+    "voltage": "233",
+    "watt": 26.9
+  },
+  {
+    "timestamp": "2025-08-03 02:36:38",
+    "connected": true,
+    "power_on": true,
+    "current": 165,
+    "voltage": "233",
+    "watt": 21.1
+  },
+  {
+    "timestamp": "2025-08-03 02:36:48",
+    "connected": true,
+    "power_on": true,
+    "current": 165,
+    "voltage": "233",
+    "watt": 21.1
+  },
+  {
+    "timestamp": "2025-08-03 02:36:58",
+    "connected": true,
+    "power_on": true,
+    "current": 165,
+    "voltage": "233",
+    "watt": 21.1
+  },
+  {
+    "timestamp": "2025-08-03 02:37:09",
+    "connected": true,
+    "power_on": true,
+    "current": 11,
+    "voltage": "233.4",
+    "watt": 5.5
+  },
+  {
+    "timestamp": "2025-08-03 02:37:19",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "233.4",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 02:37:29",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "233.4",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 02:37:40",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "233.4",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 02:37:50",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "233.4",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 02:38:00",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "233.4",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 02:38:10",
+    "connected": true,
+    "power_on": true,
+    "current": 209,
+    "voltage": "233",
+    "watt": 28.3
+  },
+  {
+    "timestamp": "2025-08-03 02:38:20",
+    "connected": true,
+    "power_on": true,
+    "current": 209,
+    "voltage": "233",
+    "watt": 28.3
+  },
+  {
+    "timestamp": "2025-08-03 02:38:30",
+    "connected": true,
+    "power_on": true,
+    "current": 209,
+    "voltage": "233",
+    "watt": 28.3
+  },
+  {
+    "timestamp": "2025-08-03 02:38:40",
+    "connected": true,
+    "power_on": true,
+    "current": 209,
+    "voltage": "233",
+    "watt": 28.3
+  },
+  {
+    "timestamp": "2025-08-03 02:38:51",
+    "connected": true,
+    "power_on": true,
+    "current": 209,
+    "voltage": "233",
+    "watt": 28.3
+  },
+  {
+    "timestamp": "2025-08-03 02:39:01",
+    "connected": true,
+    "power_on": true,
+    "current": 209,
+    "voltage": "233",
+    "watt": 28.3
+  },
+  {
+    "timestamp": "2025-08-03 02:39:11",
+    "connected": true,
+    "power_on": true,
+    "current": 209,
+    "voltage": "233",
+    "watt": 28.3
+  },
+  {
+    "timestamp": "2025-08-03 02:39:21",
+    "connected": true,
+    "power_on": true,
+    "current": 196,
+    "voltage": "233.4",
+    "watt": 27.2
+  },
+  {
+    "timestamp": "2025-08-03 02:39:31",
+    "connected": true,
+    "power_on": true,
+    "current": 196,
+    "voltage": "233.4",
+    "watt": 27.2
+  },
+  {
+    "timestamp": "2025-08-03 02:39:41",
+    "connected": true,
+    "power_on": true,
+    "current": 196,
+    "voltage": "233.4",
+    "watt": 27.2
+  },
+  {
+    "timestamp": "2025-08-03 02:39:51",
+    "connected": true,
+    "power_on": true,
+    "current": 196,
+    "voltage": "233.4",
+    "watt": 27.2
+  },
+  {
+    "timestamp": "2025-08-03 02:40:02",
+    "connected": true,
+    "power_on": true,
+    "current": 196,
+    "voltage": "233.4",
+    "watt": 27.2
+  },
+  {
+    "timestamp": "2025-08-03 02:40:12",
+    "connected": true,
+    "power_on": true,
+    "current": 196,
+    "voltage": "233.4",
+    "watt": 27.2
+  },
+  {
+    "timestamp": "2025-08-03 02:40:22",
+    "connected": true,
+    "power_on": true,
+    "current": 172,
+    "voltage": "233.4",
+    "watt": 33.4
+  },
+  {
+    "timestamp": "2025-08-03 02:40:32",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:40:42",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:40:52",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:41:03",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:41:13",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:41:23",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:41:33",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:41:43",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:41:53",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:42:03",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:42:14",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:42:24",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:42:34",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:42:44",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:42:54",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:43:04",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:43:14",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:43:24",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:43:35",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:43:45",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:43:55",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:44:05",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:44:20",
+    "connected": true,
+    "power_on": true,
+    "current": 188,
+    "voltage": "233.4",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 02:46:08",
+    "connected": true,
+    "power_on": true,
+    "current": 173,
+    "voltage": "233.9",
+    "watt": 35.7
+  },
+  {
+    "timestamp": "2025-08-03 02:46:18",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 22.7
+  },
+  {
+    "timestamp": "2025-08-03 02:46:28",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 22.7
+  },
+  {
+    "timestamp": "2025-08-03 02:46:39",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.4",
+    "watt": 22.7
+  },
+  {
+    "timestamp": "2025-08-03 02:46:49",
+    "connected": true,
+    "power_on": true,
+    "current": 163,
+    "voltage": "233.9",
+    "watt": 28
+  },
+  {
+    "timestamp": "2025-08-03 02:46:59",
+    "connected": true,
+    "power_on": true,
+    "current": 163,
+    "voltage": "233.9",
+    "watt": 28
+  },
+  {
+    "timestamp": "2025-08-03 02:47:09",
+    "connected": true,
+    "power_on": true,
+    "current": 163,
+    "voltage": "233.9",
+    "watt": 28
+  },
+  {
+    "timestamp": "2025-08-03 02:47:19",
+    "connected": true,
+    "power_on": true,
+    "current": 163,
+    "voltage": "233.9",
+    "watt": 28
+  },
+  {
+    "timestamp": "2025-08-03 02:47:29",
+    "connected": true,
+    "power_on": true,
+    "current": 163,
+    "voltage": "233.9",
+    "watt": 28
+  },
+  {
+    "timestamp": "2025-08-03 02:47:39",
+    "connected": true,
+    "power_on": true,
+    "current": 163,
+    "voltage": "233.9",
+    "watt": 28
+  },
+  {
+    "timestamp": "2025-08-03 02:47:49",
+    "connected": true,
+    "power_on": true,
+    "current": 163,
+    "voltage": "233.9",
+    "watt": 28
+  },
+  {
+    "timestamp": "2025-08-03 02:48:00",
+    "connected": true,
+    "power_on": true,
+    "current": 233,
+    "voltage": "233.4",
+    "watt": 33
+  },
+  {
+    "timestamp": "2025-08-03 02:48:10",
+    "connected": true,
+    "power_on": true,
+    "current": 233,
+    "voltage": "233.4",
+    "watt": 33
+  },
+  {
+    "timestamp": "2025-08-03 02:48:20",
+    "connected": true,
+    "power_on": true,
+    "current": 233,
+    "voltage": "233.4",
+    "watt": 33
+  },
+  {
+    "timestamp": "2025-08-03 02:48:30",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:48:40",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:48:50",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:49:01",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:49:11",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:49:21",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:49:31",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:49:41",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:49:51",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:50:01",
+    "connected": true,
+    "power_on": true,
+    "current": 159,
+    "voltage": "233.9",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:50:11",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:50:22",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:50:32",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:50:42",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:50:52",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:51:02",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:51:12",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:51:22",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:51:33",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:51:43",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:51:53",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:52:03",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:52:13",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:52:23",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:52:33",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:52:44",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:52:54",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:53:04",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:53:14",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:53:24",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:53:34",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:53:44",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:53:55",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:54:05",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:54:15",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:54:25",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:54:35",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:54:45",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:54:55",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:55:05",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:55:16",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:55:26",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:55:36",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:55:46",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:55:56",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:56:06",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:56:16",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:56:27",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:56:37",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:56:47",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:56:57",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:57:07",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "233.9",
+    "watt": 23.8
+  },
+  {
+    "timestamp": "2025-08-03 02:57:17",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "234.3",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:57:27",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "234.3",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:57:37",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "234.3",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:57:48",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "234.3",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:57:58",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "234.3",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:58:08",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "234.3",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:58:18",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "234.3",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:58:28",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "234.3",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:58:38",
+    "connected": true,
+    "power_on": true,
+    "current": 170,
+    "voltage": "234.3",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 02:58:48",
+    "connected": true,
+    "power_on": true,
+    "current": 223,
+    "voltage": "234.3",
+    "watt": 30.4
+  },
+  {
+    "timestamp": "2025-08-03 02:58:59",
+    "connected": true,
+    "power_on": true,
+    "current": 223,
+    "voltage": "234.3",
+    "watt": 30.4
+  },
+  {
+    "timestamp": "2025-08-03 02:59:09",
+    "connected": true,
+    "power_on": true,
+    "current": 223,
+    "voltage": "234.3",
+    "watt": 30.4
+  },
+  {
+    "timestamp": "2025-08-03 02:59:19",
+    "connected": true,
+    "power_on": true,
+    "current": 223,
+    "voltage": "234.3",
+    "watt": 30.4
+  },
+  {
+    "timestamp": "2025-08-03 02:59:29",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 22.5
+  },
+  {
+    "timestamp": "2025-08-03 02:59:39",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 22.5
+  },
+  {
+    "timestamp": "2025-08-03 02:59:49",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 22.5
+  },
+  {
+    "timestamp": "2025-08-03 02:59:59",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 22.5
+  },
+  {
+    "timestamp": "2025-08-03 03:00:09",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:00:20",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:00:30",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:00:40",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:00:50",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:01:00",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:01:10",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:01:20",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:01:31",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:01:41",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:01:51",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:02:01",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:02:11",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:02:21",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:02:31",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:02:42",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:02:52",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:03:02",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:03:12",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:03:22",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:03:32",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:03:42",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:03:53",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:04:03",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:04:13",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:04:23",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:04:33",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:04:43",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:04:53",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:05:04",
+    "connected": true,
+    "power_on": true,
+    "current": 156,
+    "voltage": "234.3",
+    "watt": 24.2
+  },
+  {
+    "timestamp": "2025-08-03 03:05:14",
+    "connected": true,
+    "power_on": true,
+    "current": 158,
+    "voltage": "234.3",
+    "watt": 19
+  },
+  {
+    "timestamp": "2025-08-03 03:05:24",
+    "connected": true,
+    "power_on": true,
+    "current": 158,
+    "voltage": "234.3",
+    "watt": 19
+  },
+  {
+    "timestamp": "2025-08-03 03:05:34",
+    "connected": true,
+    "power_on": true,
+    "current": 158,
+    "voltage": "234.3",
+    "watt": 19
+  },
+  {
+    "timestamp": "2025-08-03 03:05:44",
+    "connected": true,
+    "power_on": true,
+    "current": 158,
+    "voltage": "234.3",
+    "watt": 19
+  },
+  {
+    "timestamp": "2025-08-03 03:05:54",
+    "connected": true,
+    "power_on": true,
+    "current": 158,
+    "voltage": "234.3",
+    "watt": 19
+  },
+  {
+    "timestamp": "2025-08-03 03:06:04",
+    "connected": true,
+    "power_on": true,
+    "current": 158,
+    "voltage": "234.3",
+    "watt": 19
+  },
+  {
+    "timestamp": "2025-08-03 03:06:15",
+    "connected": true,
+    "power_on": true,
+    "current": 158,
+    "voltage": "234.3",
+    "watt": 19
+  },
+  {
+    "timestamp": "2025-08-03 03:06:25",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:06:35",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:06:45",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:06:55",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:07:05",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:07:15",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:07:26",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:07:36",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:07:46",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:07:56",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:08:06",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:08:16",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:08:26",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:08:37",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:08:47",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:08:57",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:09:07",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:09:17",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:09:27",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:09:38",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:09:48",
+    "connected": true,
+    "power_on": true,
+    "current": 162,
+    "voltage": "234.3",
+    "watt": 16.9
+  },
+  {
+    "timestamp": "2025-08-03 03:09:58",
+    "connected": true,
+    "power_on": true,
+    "current": 155,
+    "voltage": "234.3",
+    "watt": 29.7
+  },
+  {
+    "timestamp": "2025-08-03 03:10:08",
+    "connected": true,
+    "power_on": true,
+    "current": 141,
+    "voltage": "234.3",
+    "watt": 20.1
+  },
+  {
+    "timestamp": "2025-08-03 03:10:18",
+    "connected": true,
+    "power_on": true,
+    "current": 141,
+    "voltage": "234.3",
+    "watt": 20.1
+  },
+  {
+    "timestamp": "2025-08-03 03:10:28",
+    "connected": true,
+    "power_on": true,
+    "current": 141,
+    "voltage": "234.3",
+    "watt": 20.1
+  },
+  {
+    "timestamp": "2025-08-03 03:10:38",
+    "connected": true,
+    "power_on": true,
+    "current": 137,
+    "voltage": "234.3",
+    "watt": 16.4
+  },
+  {
+    "timestamp": "2025-08-03 03:10:49",
+    "connected": true,
+    "power_on": true,
+    "current": 137,
+    "voltage": "234.3",
+    "watt": 16.4
+  },
+  {
+    "timestamp": "2025-08-03 03:10:59",
+    "connected": true,
+    "power_on": true,
+    "current": 137,
+    "voltage": "234.3",
+    "watt": 16.4
+  },
+  {
+    "timestamp": "2025-08-03 03:11:09",
+    "connected": true,
+    "power_on": true,
+    "current": 137,
+    "voltage": "234.3",
+    "watt": 16.4
+  },
+  {
+    "timestamp": "2025-08-03 03:11:19",
+    "connected": true,
+    "power_on": true,
+    "current": 136,
+    "voltage": "234.3",
+    "watt": 18.6
+  },
+  {
+    "timestamp": "2025-08-03 03:11:29",
+    "connected": true,
+    "power_on": true,
+    "current": 121,
+    "voltage": "234.3",
+    "watt": 14.1
+  },
+  {
+    "timestamp": "2025-08-03 03:11:39",
+    "connected": true,
+    "power_on": true,
+    "current": 121,
+    "voltage": "234.3",
+    "watt": 14.1
+  },
+  {
+    "timestamp": "2025-08-03 03:11:49",
+    "connected": true,
+    "power_on": true,
+    "current": 121,
+    "voltage": "234.3",
+    "watt": 14.1
+  },
+  {
+    "timestamp": "2025-08-03 03:12:00",
+    "connected": true,
+    "power_on": true,
+    "current": 118,
+    "voltage": "234.3",
+    "watt": 15.4
+  },
+  {
+    "timestamp": "2025-08-03 03:12:10",
+    "connected": true,
+    "power_on": true,
+    "current": 178,
+    "voltage": "234.3",
+    "watt": 33
+  },
+  {
+    "timestamp": "2025-08-03 03:12:20",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:12:30",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:12:40",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:12:50",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:13:00",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:13:11",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:13:21",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:13:31",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:13:41",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:13:51",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:14:01",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:14:11",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:14:22",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:14:32",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:14:42",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:14:52",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:15:02",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:15:12",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:15:22",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:15:33",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:15:43",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:15:53",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:16:03",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:16:13",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:16:23",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:16:33",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:16:44",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:16:54",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:17:04",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:17:14",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:17:24",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:17:34",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:17:45",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:17:55",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:18:05",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:18:15",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:18:25",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:18:35",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:18:45",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:18:55",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:19:06",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:19:16",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:19:26",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:19:36",
+    "connected": true,
+    "power_on": true,
+    "current": 132,
+    "voltage": "234.3",
+    "watt": 17.9
+  },
+  {
+    "timestamp": "2025-08-03 03:19:46",
+    "connected": true,
+    "power_on": true,
+    "current": 155,
+    "voltage": "234.8",
+    "watt": 24.1
+  },
+  {
+    "timestamp": "2025-08-03 03:19:56",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "234.8",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 03:20:06",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "234.8",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 03:20:17",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "234.8",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 03:20:27",
+    "connected": true,
+    "power_on": true,
+    "current": 185,
+    "voltage": "234.8",
+    "watt": 25.9
+  },
+  {
+    "timestamp": "2025-08-03 03:20:37",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "234.3",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:20:47",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "234.3",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:20:57",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "234.3",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:21:07",
+    "connected": true,
+    "power_on": true,
+    "current": 150,
+    "voltage": "234.3",
+    "watt": 19.6
+  },
+  {
+    "timestamp": "2025-08-03 03:21:17",
+    "connected": true,
+    "power_on": true,
+    "current": 141,
+    "voltage": "234.3",
+    "watt": 20.1
+  },
+  {
+    "timestamp": "2025-08-03 03:21:27",
+    "connected": true,
+    "power_on": true,
+    "current": 141,
+    "voltage": "234.3",
+    "watt": 20.1
+  },
+  {
+    "timestamp": "2025-08-03 03:21:38",
+    "connected": true,
+    "power_on": true,
+    "current": 141,
+    "voltage": "234.3",
+    "watt": 20.1
+  },
+  {
+    "timestamp": "2025-08-03 03:21:48",
+    "connected": true,
+    "power_on": true,
+    "current": 141,
+    "voltage": "234.3",
+    "watt": 20.1
+  },
+  {
+    "timestamp": "2025-08-03 03:21:58",
+    "connected": true,
+    "power_on": true,
+    "current": 122,
+    "voltage": "234.3",
+    "watt": 15.6
+  },
+  {
+    "timestamp": "2025-08-03 03:22:08",
+    "connected": true,
+    "power_on": true,
+    "current": 122,
+    "voltage": "234.3",
+    "watt": 15.6
+  },
+  {
+    "timestamp": "2025-08-03 03:22:18",
+    "connected": true,
+    "power_on": true,
+    "current": 122,
+    "voltage": "234.3",
+    "watt": 15.6
+  },
+  {
+    "timestamp": "2025-08-03 03:22:28",
+    "connected": true,
+    "power_on": true,
+    "current": 122,
+    "voltage": "234.3",
+    "watt": 15.6
+  },
+  {
+    "timestamp": "2025-08-03 03:22:39",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "234.8",
+    "watt": 30.1
+  },
+  {
+    "timestamp": "2025-08-03 03:22:49",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "234.8",
+    "watt": 30.1
+  },
+  {
+    "timestamp": "2025-08-03 03:22:59",
+    "connected": true,
+    "power_on": true,
+    "current": 198,
+    "voltage": "234.8",
+    "watt": 30.1
+  },
+  {
+    "timestamp": "2025-08-03 03:23:09",
+    "connected": true,
+    "power_on": true,
+    "current": 123,
+    "voltage": "234.8",
+    "watt": 14.2
+  },
+  {
+    "timestamp": "2025-08-03 03:23:19",
+    "connected": true,
+    "power_on": true,
+    "current": 123,
+    "voltage": "234.8",
+    "watt": 14.2
+  },
+  {
+    "timestamp": "2025-08-03 03:23:29",
+    "connected": true,
+    "power_on": true,
+    "current": 123,
+    "voltage": "234.8",
+    "watt": 14.2
+  },
+  {
+    "timestamp": "2025-08-03 03:23:39",
+    "connected": true,
+    "power_on": true,
+    "current": 147,
+    "voltage": "234.3",
+    "watt": 24.3
+  },
+  {
+    "timestamp": "2025-08-03 03:23:50",
+    "connected": true,
+    "power_on": true,
+    "current": 120,
+    "voltage": "234.3",
+    "watt": 19.2
+  },
+  {
+    "timestamp": "2025-08-03 03:24:00",
+    "connected": true,
+    "power_on": true,
+    "current": 120,
+    "voltage": "234.3",
+    "watt": 19.2
+  },
+  {
+    "timestamp": "2025-08-03 03:24:10",
+    "connected": true,
+    "power_on": true,
+    "current": 120,
+    "voltage": "234.3",
+    "watt": 19.2
+  },
+  {
+    "timestamp": "2025-08-03 03:24:20",
+    "connected": true,
+    "power_on": true,
+    "current": 120,
+    "voltage": "234.3",
+    "watt": 19.2
+  },
+  {
+    "timestamp": "2025-08-03 03:24:30",
+    "connected": true,
+    "power_on": true,
+    "current": 120,
+    "voltage": "234.3",
+    "watt": 19.2
+  },
+  {
+    "timestamp": "2025-08-03 03:24:40",
+    "connected": true,
+    "power_on": true,
+    "current": 120,
+    "voltage": "234.3",
+    "watt": 19.2
+  },
+  {
+    "timestamp": "2025-08-03 03:24:50",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "235.2",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:25:00",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "235.2",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:25:11",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "235.2",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:25:21",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "235.2",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:25:31",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "235.2",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:25:41",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "235.2",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:25:51",
+    "connected": true,
+    "power_on": true,
+    "current": 144,
+    "voltage": "235.2",
+    "watt": 18.3
+  },
+  {
+    "timestamp": "2025-08-03 03:26:01",
+    "connected": true,
+    "power_on": true,
+    "current": 154,
+    "voltage": "235.2",
+    "watt": 27.3
+  },
+  {
+    "timestamp": "2025-08-03 03:26:11",
+    "connected": true,
+    "power_on": true,
+    "current": 133,
+    "voltage": "234.8",
+    "watt": 21.6
+  },
+  {
+    "timestamp": "2025-08-03 03:26:22",
+    "connected": true,
+    "power_on": true,
+    "current": 124,
+    "voltage": "234.8",
+    "watt": 14.4
+  },
+  {
+    "timestamp": "2025-08-03 03:26:32",
+    "connected": true,
+    "power_on": true,
+    "current": 124,
+    "voltage": "234.8",
+    "watt": 14.4
+  },
+  {
+    "timestamp": "2025-08-03 03:26:42",
+    "connected": true,
+    "power_on": true,
+    "current": 124,
+    "voltage": "234.8",
+    "watt": 14.4
+  },
+  {
+    "timestamp": "2025-08-03 03:26:52",
+    "connected": true,
+    "power_on": true,
+    "current": 197,
+    "voltage": "235.2",
+    "watt": 25.5
+  },
+  {
+    "timestamp": "2025-08-03 03:27:02",
+    "connected": true,
+    "power_on": true,
+    "current": 239,
+    "voltage": "235.2",
+    "watt": 35.1
+  },
+  {
+    "timestamp": "2025-08-03 03:27:12",
+    "connected": true,
+    "power_on": true,
+    "current": 239,
+    "voltage": "235.2",
+    "watt": 35.1
+  },
+  {
+    "timestamp": "2025-08-03 03:27:22",
+    "connected": true,
+    "power_on": true,
+    "current": 239,
+    "voltage": "235.2",
+    "watt": 35.1
+  },
+  {
+    "timestamp": "2025-08-03 03:27:33",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:27:43",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:27:53",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:28:03",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:28:13",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:28:23",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:28:33",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:28:44",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:28:54",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:29:04",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:29:14",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:29:24",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:29:34",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:29:45",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:29:55",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:30:05",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:30:15",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:30:25",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:30:35",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:30:45",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:30:55",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:31:06",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:31:16",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:31:26",
+    "connected": true,
+    "power_on": true,
+    "current": 153,
+    "voltage": "235.7",
+    "watt": 18.9
+  },
+  {
+    "timestamp": "2025-08-03 03:31:36",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 03:31:46",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 03:31:56",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 03:32:06",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 03:32:17",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 03:32:27",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 03:32:37",
+    "connected": true,
+    "power_on": true,
+    "current": 146,
+    "voltage": "234.8",
+    "watt": 20.8
+  },
+  {
+    "timestamp": "2025-08-03 03:32:47",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:32:57",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:33:08",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:33:18",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:33:28",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:33:38",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:33:48",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:33:58",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:34:08",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:34:18",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:34:29",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:34:39",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:34:49",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:34:59",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:35:09",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:35:19",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:35:29",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:35:40",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:35:50",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:36:00",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:36:10",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:36:20",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:36:30",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:36:40",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:36:51",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:37:01",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:37:11",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:37:21",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:37:31",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:37:41",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:37:51",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:38:01",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:38:12",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:38:22",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:38:32",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:38:42",
+    "connected": true,
+    "power_on": true,
+    "current": 166,
+    "voltage": "235.2",
+    "watt": 24.5
+  },
+  {
+    "timestamp": "2025-08-03 03:38:52",
+    "connected": true,
+    "power_on": true,
+    "current": 228,
+    "voltage": "231.7",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 03:39:02",
+    "connected": true,
+    "power_on": true,
+    "current": 228,
+    "voltage": "231.7",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 03:39:12",
+    "connected": true,
+    "power_on": true,
+    "current": 228,
+    "voltage": "231.7",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 03:39:22",
+    "connected": true,
+    "power_on": true,
+    "current": 228,
+    "voltage": "231.7",
+    "watt": 25.3
+  },
+  {
+    "timestamp": "2025-08-03 03:39:32",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "231.7",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 03:39:43",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "231.7",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 03:39:53",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "231.7",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 03:40:03",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "231.7",
+    "watt": 0
+  },
+  {
+    "timestamp": "2025-08-03 03:40:14",
+    "connected": true,
+    "power_on": true,
+    "current": 0,
+    "voltage": "231.7",
+    "watt": 0
+  }
+]
